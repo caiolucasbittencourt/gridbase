@@ -29,7 +29,7 @@ API para consultar informações do campeonato de Fórmula 1, com dados de equip
 ### Instalação
 
 ```bash
-git clone https://github.com/caiolucasbittencourt/f1-api-fastify.git
+git clone https://github.com/caiolucasbittencourt/acervo-de-formula-1.git
 cd f1-api-fastify
 npm install
 npm run start:dev
