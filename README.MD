@@ -51,3 +51,7 @@ npm run start:dev
 | GET    | `/circuits`          | Lista todos os circuitos |
 | GET    | `/circuits/:id`      | Detalhes de um circuito  |
 | GET    | `/circuits/longest`  | Circuitos por tamanho    |
+
+### Licença
+
+Este projeto está licenciado sob a licença [MIT](LICENSE).
