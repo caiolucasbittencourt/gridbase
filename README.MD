@@ -14,7 +14,7 @@ API para consultar informações do campeonato de Fórmula 1, com dados de equip
 - **TSX** (Execução de TypeScript em desenvolvimento)
 - **ESLint** (Linter para padronização de código)
 
-### Funcionalidades
+## Funcionalidades
 
 - **Equipes:** Listagem e consulta de todas as 10 equipes de F1.
 - **Pilotos:** Dados completos de 20 pilotos com estatísticas.
@@ -22,11 +22,11 @@ API para consultar informações do campeonato de Fórmula 1, com dados de equip
 - **Filtros:** Busca por nacionalidade, equipe e país.
 - **Rankings:** Campeões mundiais e classificação por pontos.
 
-### Pré-requisitos
+## Pré-requisitos
 
 - Node.js
 
-### Instalação
+## Instalação
 
 ```bash
 git clone https://github.com/caiolucasbittencourt/acervo-de-formula-1.git
@@ -35,7 +35,7 @@ npm install
 npm run start:dev
 ```
 
-### Rotas
+## Rotas
 
 | Método | Rota                 | Descrição                |
 | ------ | -------------------- | ------------------------ |
@@ -52,6 +52,6 @@ npm run start:dev
 | GET    | `/circuits/:id`      | Detalhes de um circuito  |
 | GET    | `/circuits/longest`  | Circuitos por tamanho    |
 
-### Licença
+## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE).
