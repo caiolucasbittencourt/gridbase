@@ -1,4 +1,4 @@
-# F1 API Fastify
+# Gridbase
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
@@ -29,8 +29,8 @@ API para consultar informações do campeonato de Fórmula 1, com dados de equip
 ## Instalação
 
 ```bash
-git clone https://github.com/caiolucasbittencourt/acervo-de-formula-1.git
-cd f1-api-fastify
+git clone https://github.com/caiolucasbittencourt/gridbase.git
+cd gridbase
 npm install
 npm run start:dev
 ```

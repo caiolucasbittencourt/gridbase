@@ -1,5 +1,5 @@
 {
-  "name": "acervo-de-formula-1",
+  "name": "gridbase",
   "version": "1.0.0",
   "type": "module",
   "description": "API de dados da Fórmula 1 com Fastify",
